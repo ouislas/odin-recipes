@@ -1,0 +1,13 @@
+h1 {
+    color:darkslategray;
+    text-align: center;
+}
+body {
+    background-color:cornsilk;
+}
+h1, li {
+    font-family: sans-serif;
+}
+li {
+    text-align: center;
+}
